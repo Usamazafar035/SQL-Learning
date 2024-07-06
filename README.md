@@ -1,4 +1,5 @@
 # SQL-Learning
+# SQL, MYSQL
 I am thrilled to announce that I have successfully completed the Udemy course on SQL - MySQL for Data Analytics and Business Intelligence! 🚀
 
 This comprehensive course has been an enriching journey, equipping me with essential skills to:
